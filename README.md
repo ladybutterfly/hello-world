@@ -1,2 +1,2 @@
-# hello-world
-learning GitHub
+# change 1
+changing initial text
